@@ -1,5 +1,5 @@
 import os
-
+# Importing numpy library
 import numpy as np
 from tensorflow.compat.v1 import ConfigProto, InteractiveSession
 
